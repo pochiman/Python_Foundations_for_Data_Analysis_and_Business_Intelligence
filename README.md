@@ -1,1 +1,1 @@
-# Python_Foundations_for_Data_Analysis_and_Business_Intelligence
+# Python Foundations for Data Analysis and Business Intelligence
